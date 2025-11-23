@@ -1,16 +1,31 @@
 ## Hi there 👋 I'm Jixell Massey Ogbinar 
+I'm a Computer Science student with growing experience in programming and database management. I'm passionate about learning, building projects, and improving my skills.
+---
 
-Education
-- BS Computer Science
-  New Era University
-  2024-Present
-- Cerfification
+## 📚 Education  
+- **BS Computer Science**  
+  New Era University  
+  *2024–Present*
 
-- Skillsets
-- Web Development: HTML, CSS
-- Programming: Java
-- Databases: SQL
-- Tools: Lucidchart, Eclipse, Visual Studio Code
+---
+
+## 📜 Certification  
+
+
+---
+
+## 🛠 Skill Sets  
+- **Programming:** Java
+- **Web Development:** HTML, CSS
+- **Databases:** SQL  
+- **Tools:** Lucidchart, Eclipse, Visual Studio Code
+
+## 📩 Let's Connect  
+- **Email:** masseyjixell02@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/massey-ogbinar-bbb518346/
+
+
+
 
 
 <!--
