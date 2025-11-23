@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Jixell Massey Ogbinar 
+
+Education
+- BS Computer Science
+  New Era University
+  2024-Present
+- Cerfification
+
+- Skillsets
+- Web Development: HTML, CSS
+- Programming: Java
+- Databases: SQL
+- Tools: Lucidchart, Eclipse, Visual Studio Code
+
 
 <!--
 **jxlmssy/jxlmssy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
