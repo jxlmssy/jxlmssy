@@ -10,7 +10,7 @@ I'm a Computer Science student with growing experience in programming and databa
 ---
 
 ## 📜 Certification  
-- [SQL and Relational Database 101] (https://courses.cognitiveclass.ai/certificates/b667522614484b0a8bd6fa6f977616b6)
+- [SQL and Relational Database 101](https://courses.cognitiveclass.ai/certificates/b667522614484b0a8bd6fa6f977616b6)
 
 ---
 
