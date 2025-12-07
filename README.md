@@ -11,6 +11,7 @@ I'm a Computer Science student with growing experience in programming and databa
 
 ## 📜 Certification  
 - [SQL and Relational Database 101](https://courses.cognitiveclass.ai/certificates/b667522614484b0a8bd6fa6f977616b6)
+- [Oracle Cloud Infrastructure 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E16249B6B51DEF99F17A6B639DDAD9D42C1347940F654A0E3DA22FBF80242EBE)
 
 ---
 
