@@ -6,8 +6,7 @@ I'm a Computer Science student with growing experience in programming and databa
 - **BS Computer Science**  
   New Era University  
   *2024–Present*
-- **STEM**
-
+- **STEM** 
   Our Lady of Fatima University  
   *2022-2024*
 
