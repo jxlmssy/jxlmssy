@@ -39,9 +39,6 @@ I'm a **3rd-year BS Computer Science** student at **New Era University** (class 
 | | project | what it is |
 |---|---|---|
 | 🧑‍🤝‍🧑 | **[Software Engineering 1 Project](https://github.com/jxlmssy/SoftwareEngr1Project)** | Group project where I was **Scrum Master**, running the team through Agile sprints |
-| 🏫 | **[Unified School Management App](https://github.com/jxlmssy/Integrating-Different-School-Systems-into-a-Unified-School-Management-Application)** | Java app that brings different school systems together under one interface |
-| 🏠 | **[Smart Home Automation](https://github.com/jxlmssy/Smart-Home-Automation)** | Java design-patterns project for controlling smart home devices |
-| 🔌 | **[Adapter Pattern](https://github.com/jxlmssy/Adapter-Pattern)** · **[Facade Pattern](https://github.com/jxlmssy/LabAssign4FacadePattern)** | Java labs on structural design patterns |
 | 🏨 | **Stark Suites** *(Figma)* | Marvel-inspired hotel booking prototype for HCI: rooms, restaurant, events, and managing reservations, with animated transitions and checked color contrast |
 | 🧩 | **Math Cryptogram Game** | My very first project: a math cryptogram puzzle in HTML, CSS & JavaScript |
 
