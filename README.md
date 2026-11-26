@@ -54,25 +54,8 @@ I'm a **3rd-year BS Computer Science** student at **New Era University** (class 
 - 📊 **Oracle Data Platform 2025 Certified Foundations Associate** · Oracle · Dec 2025
 - 🤖 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** · Oracle · Dec 2025
 
----
 
-<details>
-<summary><b>❤️ fun fact (click me)</b></summary>
-<br>
 
-Before all the studying, I was already in **esports**, playing competitively across five games for school and community teams.
 
-| game | peak |
-|---|---|
-| 🎯 Valorant | **Ascendant 2** · NEU Project Paradigm (current), ex-OLFU Esports QC |
-| 🦸 Marvel Rivals | Celestial 3 |
-| 🪂 Apex Legends | Platinum |
-| 📱 Call of Duty: Mobile | 7× Legendary BR · 5× Legendary MP |
-| ⚔️ Mobile Legends | Mythical Glory (800 pts) |
-
-Valorant tournaments: Lipad Tournament · FSL All Girls Tournament · AcadArena
-
-*I like to make games, not just play them.*
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4b3020&height=110&section=footer" width="100%" alt="" />
