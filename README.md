@@ -5,16 +5,17 @@
 </p>
 
 <p align="center">
+  <a href="https://jxlmssy-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4b3020?style=for-the-badge&logo=vercel&logoColor=f0e6d2" alt="Portfolio" /></a>
   <a href="mailto:masseyjixell02@gmail.com"><img src="https://img.shields.io/badge/Email-4b3020?style=for-the-badge&logo=gmail&logoColor=f0e6d2" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/massey-ogbinar-bbb518346/"><img src="https://img.shields.io/badge/LinkedIn-4b3020?style=for-the-badge&logo=linkedin&logoColor=f0e6d2" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-### 📓 about me
+### 📓 About me
 
 I'm a **3rd-year BS Computer Science** student at **New Era University** (class of 2028), and my profile is a journal of the progress I've made so far.
-
+📖 **Flip through my journal:** [jxlmssy-portfolio.vercel.app](https://jxlmssy-portfolio.vercel.app)
 - 🎯 **Goal:** software developer now, game developer someday, building things people enjoy using and playing
 - 🐧 **Learning:** Linux
 - 🔐 **Next up:** cybersecurity
@@ -22,7 +23,7 @@ I'm a **3rd-year BS Computer Science** student at **New Era University** (class 
 
 ---
 
-### 🛠️ my kit
+### 🛠️ My kit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,figma,git,github,vscode,linux&theme=dark" alt="Java, HTML, CSS, JavaScript, SQL, Figma, Git, GitHub, VS Code, Linux" />
@@ -34,7 +35,7 @@ I'm a **3rd-year BS Computer Science** student at **New Era University** (class 
 
 ---
 
-### 📌 projects taped in
+### 📌 Projects taped in
 
 | | project | what it is |
 |---|---|---|
@@ -44,7 +45,7 @@ I'm a **3rd-year BS Computer Science** student at **New Era University** (class 
 
 ---
 
-### 📜 certificates
+### 📜 Certificates
 
 - 🗄️ **SQL and Relational Databases 101** · IBM / Cognitive Class · Nov 2025
 - ☁️ **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** · Oracle · Dec 2025
