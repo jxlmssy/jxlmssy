@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4b3020&height=190&section=header&text=Hi,%20I'm%20Massey&fontSize=52&fontColor=f0e6d2&fontAlignY=36&desc=Jixell%20Massey%20Ogbinar%20·%20CS%20student%20·%20Quezon%20City,%20PH&descSize=16&descAlignY=58&descColor=f0e6d2" width="100%" alt="Hi, I'm Massey" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1DA,100:F48FB1&height=190&section=header&text=Hi,%20I'm%20Massey&fontSize=52&fontColor=6B1E45&fontAlignY=36&desc=Jixell%20Massey%20Ogbinar%20·%20CS%20student%20·%20Quezon%20City,%20PH&descSize=16&descAlignY=58&descColor=6B1E45" width="100%" alt="Hi, I'm Massey" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Delius&size=20&duration=3200&pause=900&color=C8915A&center=true&vCenter=true&width=520&lines=3rd-year+Computer+Science+student;Future+software+%26+game+developer;Currently+learning+Linux+%F0%9F%90%A7;Next+chapter%3A+cybersecurity" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Delius&size=20&duration=3200&pause=900&color=E75A92&center=true&vCenter=true&width=520&lines=3rd-year+Computer+Science+student;Future+software+%26+game+developer;Currently+learning+Linux+%F0%9F%90%A7;Next+chapter%3A+cybersecurity" alt="typing intro" />
 </p>
 
 <p align="center">
-  <a href="https://jxlmssy-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4b3020?style=for-the-badge&logo=vercel&logoColor=f0e6d2" alt="Portfolio" /></a>
-  <a href="mailto:masseyjixell02@gmail.com"><img src="https://img.shields.io/badge/Email-4b3020?style=for-the-badge&logo=gmail&logoColor=f0e6d2" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/massey-ogbinar-bbb518346/"><img src="https://img.shields.io/badge/LinkedIn-4b3020?style=for-the-badge&logo=linkedin&logoColor=f0e6d2" alt="LinkedIn" /></a>
+  <a href="https://jxlmssy-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-D94F8A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:masseyjixell02@gmail.com"><img src="https://img.shields.io/badge/Email-D94F8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/massey-ogbinar-bbb518346/"><img src="https://img.shields.io/badge/LinkedIn-D94F8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -15,7 +15,9 @@
 ### 📓 About me
 
 I'm a **3rd-year BS Computer Science** student at **New Era University** (class of 2028), and my profile is a journal of the progress I've made so far.
+
 📖 **Flip through my journal:** [jxlmssy-portfolio.vercel.app](https://jxlmssy-portfolio.vercel.app)
+
 - 🎯 **Goal:** software developer now, game developer someday, building things people enjoy using and playing
 - 🐧 **Learning:** Linux
 - 🔐 **Next up:** cybersecurity
@@ -56,4 +58,4 @@ I'm a **3rd-year BS Computer Science** student at **New Era University** (class 
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4b3020&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F48FB1,100:FFC1DA&height=110&section=footer" width="100%" alt="" />
